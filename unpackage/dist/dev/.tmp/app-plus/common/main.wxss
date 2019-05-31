@@ -1,0 +1,18 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*每个页面公共css */
+
+.border-image-1px {border-bottom: none;border-width: 0 0 1px 0;-webkit-border-image: url(https://cdn.dcloud.net.cn/img/border-image-1px.png) 0 0 2 0 stretch;border-image: url(https://cdn.dcloud.net.cn/img/border-image-1px.png) 0 0 2 0 stretch;}
